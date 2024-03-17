@@ -1,2 +1,2 @@
-# my-apps-portfolio
-Access my all apps at one place. 
+# My Apps portfolio
+Access all my apps in one place. 
